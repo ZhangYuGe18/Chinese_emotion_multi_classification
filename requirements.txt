@@ -1,0 +1,8 @@
+numpy==1.23.5
+pandas==1.5.2
+scikit_learn==1.2.2
+torch==1.13.1
+tqdm==4.64.1
+transformers==4.25.1
+bertopic==0.13.0
+top2vec==1.0.29
